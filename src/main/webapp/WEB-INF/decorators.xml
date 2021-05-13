@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/decorators">
+
+	
+    <decorator name="trang-chu" page="web.jsp">
+       <pattern>/trang-chu</pattern>
+    </decorator>
+    
+    <decorator name="ve-chung-toi" page="about.jsp">
+       <pattern>/ve-chung-toi</pattern>
+    </decorator>
+    <decorator name="to-chuc" page="about.jsp">
+       <pattern>/to-chuc</pattern>
+    </decorator>
+     <decorator name="lich-su" page="about.jsp">
+       <pattern>/lich-su</pattern>
+    </decorator>
+    <decorator name="khach-hang" page="about.jsp">
+       <pattern>/khach-hang</pattern>
+    </decorator>
+    <decorator name="san-pham-thuong-mai" page="about.jsp">
+       <pattern>/san-pham-thuong-mai</pattern>
+    </decorator>
+    <decorator name="san-pham-cong-nghe-cong-nghiep" page="about.jsp">
+       <pattern>/san-pham-cong-nghe-cong-nghiep</pattern>
+    </decorator>
+    <decorator name="du-an-tieu-bieu" page="about.jsp">
+       <pattern>/du-an-tieu-bieu</pattern>
+    </decorator>
+    <decorator name="chuyen-nganh-vien-thong" page="about.jsp">
+       <pattern>/chuyen-nganh-vien-thong</pattern>
+    </decorator>
+    <decorator name="cong-nghe-thong-tin" page="about.jsp">
+       <pattern>/cong-nghe-thong-tin</pattern>
+    </decorator>
+    <decorator name="chuyen-doi-so" page="about.jsp">
+       <pattern>/chuyen-doi-so</pattern>
+    </decorator>
+    <decorator name="home" page="admin.jsp">
+       <pattern>/home</pattern>
+    </decorator>
+
+</decorators>
